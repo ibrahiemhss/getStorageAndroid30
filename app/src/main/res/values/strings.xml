@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">getStorageAndroid30</string>
+    <string name="enable_permission">Please Enable the Read Storage permission in permission</string>
+    <string name="read_storage_permission">Read Storage Permission required for this app</string>
+</resources>
